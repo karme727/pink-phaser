@@ -1,4 +1,4 @@
-# purple-phase
+# pink-phaser
 custom theme for vencord
 
 if you're here you should already know how to import a theme.css file to vencord but if not, do the following
